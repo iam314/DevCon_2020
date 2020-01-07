@@ -344,6 +344,1094 @@
 		"oAP": "/build/docs/docs/Dimitar_Delev.html",
 		"oF": 0
 		},
+	"/docs/docs/docs/about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/about.html",
+		"oF": 0
+		},
+	"/docs/docs/docs/Alexandar_Melov.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/Alexandar_Melov.html",
+		"oF": 0
+		},
+	"/docs/docs/docs/Andraj_Trajcevski.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/Andraj_Trajcevski.html",
+		"oF": 0
+		},
+	"/docs/docs/docs/Bojan_Bozinovski.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/Bojan_Bozinovski.html",
+		"oF": 0
+		},
+	"/docs/docs/docs/Boro_Sitnikovski.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/Boro_Sitnikovski.html",
+		"oF": 0
+		},
+	"/docs/docs/docs/codeofconduct.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/codeofconduct.html",
+		"oF": 0
+		},
+	"/docs/docs/docs/contact.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/contact.html",
+		"oF": 0
+		},
+	"/docs/docs/docs/cookiepolicy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/cookiepolicy.html",
+		"oF": 0
+		},
+	"/docs/docs/docs/css/main-min-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/css/main-min-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/docs/docs/docs/css/main.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/css/main.css.map",
+		"oF": 0
+		},
+	"/docs/docs/docs/css/normalize-min-min-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/css/normalize-min-min-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/docs/docs/docs/Dimitar_Delev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/Dimitar_Delev.html",
+		"oF": 0
+		},
+	"/docs/docs/docs/faq.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/faq.html",
+		"oF": 0
+		},
+	"/docs/docs/docs/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/favicon.ico",
+		"oF": 0
+		},
+	"/docs/docs/docs/gallery.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/gallery.html",
+		"oF": 0
+		},
+	"/docs/docs/docs/img/devcon_logo copy.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/docs/docs/docs/img/devcon_logo copy.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/docs/docs/docs/img/devcon_logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/docs/docs/docs/img/devcon_logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/docs/docs/docs/img/devcon_poster copy.jpg": {
+		"ft": 16384,
+		"iS": 2205181,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/devcon_poster copy.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/devcon_poster.jpg": {
+		"ft": 16384,
+		"iS": 370365,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/devcon_poster.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/devcon_poster_old.jpg": {
+		"ft": 16384,
+		"iS": 2055325,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/devcon_poster_old.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_001.jpg": {
+		"ft": 16384,
+		"iS": 390982,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_001.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_002.jpg": {
+		"ft": 16384,
+		"iS": 1327677,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_002.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_003.jpg": {
+		"ft": 16384,
+		"iS": 443538,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_003.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_004.jpg": {
+		"ft": 16384,
+		"iS": 317317,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_004.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_005.jpg": {
+		"ft": 16384,
+		"iS": 358593,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_005.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_006.jpg": {
+		"ft": 16384,
+		"iS": 342847,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_006.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_007.jpg": {
+		"ft": 16384,
+		"iS": 437041,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_007.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_008.jpg": {
+		"ft": 16384,
+		"iS": 395817,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_008.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_009.jpg": {
+		"ft": 16384,
+		"iS": 535494,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_009.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_010.jpg": {
+		"ft": 16384,
+		"iS": 394394,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_010.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_011.jpg": {
+		"ft": 16384,
+		"iS": 371237,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_011.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_012.jpg": {
+		"ft": 16384,
+		"iS": 400501,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_012.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_013.jpg": {
+		"ft": 16384,
+		"iS": 405378,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_013.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_014.jpg": {
+		"ft": 16384,
+		"iS": 381160,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_014.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_015.jpg": {
+		"ft": 16384,
+		"iS": 339182,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_015.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_016.jpg": {
+		"ft": 16384,
+		"iS": 377759,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_016.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_017.jpg": {
+		"ft": 16384,
+		"iS": 343481,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_017.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_018.jpg": {
+		"ft": 16384,
+		"iS": 400879,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_019.jpg": {
+		"ft": 16384,
+		"iS": 356634,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_019.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_020.jpg": {
+		"ft": 16384,
+		"iS": 402970,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_020.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_021.jpg": {
+		"ft": 16384,
+		"iS": 377132,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_021.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_022.jpg": {
+		"ft": 16384,
+		"iS": 414719,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_022.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_023.jpg": {
+		"ft": 16384,
+		"iS": 281979,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_023.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_024.jpg": {
+		"ft": 16384,
+		"iS": 352203,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_024.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_025.jpg": {
+		"ft": 16384,
+		"iS": 303563,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_025.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_026.jpg": {
+		"ft": 16384,
+		"iS": 421331,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_026.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_027.jpg": {
+		"ft": 16384,
+		"iS": 315244,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_027.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_028.jpg": {
+		"ft": 16384,
+		"iS": 320603,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_028.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_029.jpg": {
+		"ft": 16384,
+		"iS": 401600,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_029.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_030.jpg": {
+		"ft": 16384,
+		"iS": 416078,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_030.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_031.jpg": {
+		"ft": 16384,
+		"iS": 483616,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_031.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_032.jpg": {
+		"ft": 16384,
+		"iS": 518528,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_032.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_033.jpg": {
+		"ft": 16384,
+		"iS": 392026,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_033.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_034.jpg": {
+		"ft": 16384,
+		"iS": 497793,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_034.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_035.jpg": {
+		"ft": 16384,
+		"iS": 376292,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_035.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_036.jpg": {
+		"ft": 16384,
+		"iS": 346304,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_036.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_037.jpg": {
+		"ft": 16384,
+		"iS": 416221,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_037.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_038.jpg": {
+		"ft": 16384,
+		"iS": 359074,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_038.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_039.jpg": {
+		"ft": 16384,
+		"iS": 390992,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_039.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_040.jpg": {
+		"ft": 16384,
+		"iS": 429037,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_040.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_041.jpg": {
+		"ft": 16384,
+		"iS": 416400,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_041.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_042.jpg": {
+		"ft": 16384,
+		"iS": 424535,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_042.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_043.jpg": {
+		"ft": 16384,
+		"iS": 380709,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_043.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_044.jpg": {
+		"ft": 16384,
+		"iS": 387713,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_044.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_045.jpg": {
+		"ft": 16384,
+		"iS": 336701,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_045.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_046.jpg": {
+		"ft": 16384,
+		"iS": 385561,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_046.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_047.jpg": {
+		"ft": 16384,
+		"iS": 466280,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_047.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_048.jpg": {
+		"ft": 16384,
+		"iS": 407453,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_048.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_049.jpg": {
+		"ft": 16384,
+		"iS": 318418,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_049.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_050.jpg": {
+		"ft": 16384,
+		"iS": 251257,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_050.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_051.jpg": {
+		"ft": 16384,
+		"iS": 436877,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_051.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_052.jpg": {
+		"ft": 16384,
+		"iS": 319250,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_052.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/gallery/2019/DSC_053.jpg": {
+		"ft": 16384,
+		"iS": 309658,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/gallery/2019/DSC_053.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/docs/docs/docs/img/logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/docs/docs/docs/img/logo_blck.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/docs/docs/docs/img/logo_blck.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/docs/docs/docs/img/partnerlogos/foundry_logo.png": {
+		"ft": 32768,
+		"iS": 778,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/partnerlogos/foundry_logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/partnerlogos/h4_logo.png": {
+		"ft": 32768,
+		"iS": 680,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/partnerlogos/h4_logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/partnerlogos/melon_logo.png": {
+		"ft": 32768,
+		"iS": 1340,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/partnerlogos/melon_logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/speakers/Aleksandar_Melov.jpg": {
+		"ft": 16384,
+		"iS": 295022,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/speakers/Aleksandar_Melov.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/speakers/Andrej_Trajchevski.jpg": {
+		"ft": 16384,
+		"iS": 338536,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/speakers/Andrej_Trajchevski.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/speakers/Bojan_Bojinovski.jpg": {
+		"ft": 16384,
+		"iS": 257537,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/speakers/Bojan_Bojinovski.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/speakers/Boro_Sitnikovski.jpg": {
+		"ft": 16384,
+		"iS": 200407,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/speakers/Boro_Sitnikovski.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/speakers/Dimitar_Delev.jpg": {
+		"ft": 16384,
+		"iS": 250046,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/speakers/Dimitar_Delev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/speakers/Kristijan_Ristovski.jpg": {
+		"ft": 16384,
+		"iS": 336418,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/speakers/Kristijan_Ristovski.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/speakers/Rado_Gabrovski.jpg": {
+		"ft": 16384,
+		"iS": 376060,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/speakers/Rado_Gabrovski.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/speakers/Stefan_Janev.jpg": {
+		"ft": 16384,
+		"iS": 347938,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/speakers/Stefan_Janev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/speakers/Stojan_Gancev.jpg": {
+		"ft": 16384,
+		"iS": 254653,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/speakers/Stojan_Gancev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/docs/docs/docs/img/talks/2019/talks_Alexandar_Melov.png": {
+		"ft": 32768,
+		"iS": 91552,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/talks/2019/talks_Alexandar_Melov.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/talks/2019/talks_Andraj_trajcevski.png": {
+		"ft": 32768,
+		"iS": 54643,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/talks/2019/talks_Andraj_trajcevski.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/talks/2019/talks_Bojan_Bozinovski.png": {
+		"ft": 32768,
+		"iS": 67504,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/talks/2019/talks_Bojan_Bozinovski.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/talks/2019/talks_Boro_Sitnikovski.png": {
+		"ft": 32768,
+		"iS": 69563,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/talks/2019/talks_Boro_Sitnikovski.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/talks/2019/talks_Dimitar_Delev.png": {
+		"ft": 32768,
+		"iS": 58598,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/talks/2019/talks_Dimitar_Delev.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/talks/2019/talks_Kitze.png": {
+		"ft": 32768,
+		"iS": 101774,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/talks/2019/talks_Kitze.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/talks/2019/talks_Rado_Gabrovski.png": {
+		"ft": 32768,
+		"iS": 82264,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/talks/2019/talks_Rado_Gabrovski.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/img/talks/2019/talks_Stefan_Janev.png": {
+		"ft": 32768,
+		"iS": 55055,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/img/talks/2019/talks_Stefan_Janev.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/docs/docs/docs/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/index.html",
+		"oF": 0
+		},
+	"/docs/docs/docs/Kitze.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/Kitze.html",
+		"oF": 0
+		},
+	"/docs/docs/docs/privacypolicy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/privacypolicy.html",
+		"oF": 0
+		},
+	"/docs/docs/docs/Rado_Gabrovski.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/Rado_Gabrovski.html",
+		"oF": 0
+		},
+	"/docs/docs/docs/registration.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/registration.html",
+		"oF": 0
+		},
+	"/docs/docs/docs/schedule.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/schedule.html",
+		"oF": 0
+		},
+	"/docs/docs/docs/speakers.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/speakers.html",
+		"oF": 0
+		},
+	"/docs/docs/docs/Stefan_Janev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/Stefan_Janev.html",
+		"oF": 0
+		},
+	"/docs/docs/docs/success.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/success.html",
+		"oF": 0
+		},
+	"/docs/docs/docs/talks.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/talks.html",
+		"oF": 0
+		},
+	"/docs/docs/docs/termsofuse.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/docs/docs/termsofuse.html",
+		"oF": 0
+		},
 	"/docs/docs/faq.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -396,7 +1484,7 @@
 		"oAP": "/build/docs/docs/img/devcon_poster copy.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/devcon_poster.jpg": {
@@ -407,7 +1495,7 @@
 		"oAP": "/build/docs/docs/img/devcon_poster.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/devcon_poster_old.jpg": {
@@ -418,7 +1506,7 @@
 		"oAP": "/build/docs/docs/img/devcon_poster_old.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_001.jpg": {
@@ -429,7 +1517,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_001.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_002.jpg": {
@@ -440,7 +1528,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_002.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_003.jpg": {
@@ -451,7 +1539,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_003.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_004.jpg": {
@@ -462,7 +1550,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_004.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_005.jpg": {
@@ -473,7 +1561,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_005.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_006.jpg": {
@@ -484,7 +1572,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_006.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_007.jpg": {
@@ -495,7 +1583,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_007.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_008.jpg": {
@@ -506,7 +1594,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_008.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_009.jpg": {
@@ -517,7 +1605,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_009.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_010.jpg": {
@@ -528,7 +1616,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_010.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_011.jpg": {
@@ -539,7 +1627,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_011.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_012.jpg": {
@@ -550,7 +1638,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_012.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_013.jpg": {
@@ -561,7 +1649,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_013.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_014.jpg": {
@@ -572,7 +1660,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_014.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_015.jpg": {
@@ -583,7 +1671,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_015.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_016.jpg": {
@@ -594,7 +1682,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_016.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_017.jpg": {
@@ -605,7 +1693,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_017.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_018.jpg": {
@@ -616,7 +1704,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_018.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_019.jpg": {
@@ -627,7 +1715,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_019.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_020.jpg": {
@@ -638,7 +1726,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_020.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_021.jpg": {
@@ -649,7 +1737,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_021.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_022.jpg": {
@@ -660,7 +1748,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_022.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_023.jpg": {
@@ -671,7 +1759,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_023.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_024.jpg": {
@@ -682,7 +1770,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_024.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_025.jpg": {
@@ -693,7 +1781,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_025.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_026.jpg": {
@@ -704,7 +1792,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_026.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_027.jpg": {
@@ -715,7 +1803,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_027.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_028.jpg": {
@@ -726,7 +1814,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_028.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_029.jpg": {
@@ -737,7 +1825,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_029.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_030.jpg": {
@@ -748,7 +1836,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_030.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_031.jpg": {
@@ -759,7 +1847,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_031.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_032.jpg": {
@@ -770,7 +1858,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_032.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_033.jpg": {
@@ -781,7 +1869,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_033.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_034.jpg": {
@@ -792,7 +1880,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_034.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_035.jpg": {
@@ -803,7 +1891,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_035.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_036.jpg": {
@@ -814,7 +1902,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_036.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_037.jpg": {
@@ -825,7 +1913,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_037.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_038.jpg": {
@@ -836,7 +1924,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_038.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_039.jpg": {
@@ -847,7 +1935,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_039.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_040.jpg": {
@@ -858,7 +1946,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_040.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_041.jpg": {
@@ -869,7 +1957,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_041.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_042.jpg": {
@@ -880,7 +1968,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_042.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_043.jpg": {
@@ -891,7 +1979,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_043.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_044.jpg": {
@@ -902,7 +1990,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_044.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_045.jpg": {
@@ -913,7 +2001,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_045.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_046.jpg": {
@@ -924,7 +2012,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_046.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_047.jpg": {
@@ -935,7 +2023,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_047.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_048.jpg": {
@@ -946,7 +2034,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_048.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_049.jpg": {
@@ -957,7 +2045,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_049.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_050.jpg": {
@@ -968,7 +2056,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_050.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_051.jpg": {
@@ -979,7 +2067,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_051.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_052.jpg": {
@@ -990,7 +2078,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_052.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/gallery/2019/DSC_053.jpg": {
@@ -1001,7 +2089,7 @@
 		"oAP": "/build/docs/docs/img/gallery/2019/DSC_053.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/logo.svg": {
@@ -1031,7 +2119,7 @@
 		"oAP": "/build/docs/docs/img/partnerlogos/foundry_logo.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1042,7 +2130,7 @@
 		"oAP": "/build/docs/docs/img/partnerlogos/h4_logo.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1053,7 +2141,7 @@
 		"oAP": "/build/docs/docs/img/partnerlogos/melon_logo.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1065,7 +2153,7 @@
 		"oAP": "/build/docs/docs/img/speakers/Aleksandar_Melov.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/speakers/Andrej_Trajchevski.jpg": {
@@ -1076,7 +2164,7 @@
 		"oAP": "/build/docs/docs/img/speakers/Andrej_Trajchevski.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/speakers/Bojan_Bojinovski.jpg": {
@@ -1087,7 +2175,7 @@
 		"oAP": "/build/docs/docs/img/speakers/Bojan_Bojinovski.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/speakers/Boro_Sitnikovski.jpg": {
@@ -1098,7 +2186,7 @@
 		"oAP": "/build/docs/docs/img/speakers/Boro_Sitnikovski.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/speakers/Dimitar_Delev.jpg": {
@@ -1109,7 +2197,7 @@
 		"oAP": "/build/docs/docs/img/speakers/Dimitar_Delev.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/speakers/Kristijan_Ristovski.jpg": {
@@ -1120,7 +2208,7 @@
 		"oAP": "/build/docs/docs/img/speakers/Kristijan_Ristovski.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/speakers/Rado_Gabrovski.jpg": {
@@ -1131,7 +2219,7 @@
 		"oAP": "/build/docs/docs/img/speakers/Rado_Gabrovski.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/speakers/Stefan_Janev.jpg": {
@@ -1142,7 +2230,7 @@
 		"oAP": "/build/docs/docs/img/speakers/Stefan_Janev.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/speakers/Stojan_Gancev.jpg": {
@@ -1153,7 +2241,7 @@
 		"oAP": "/build/docs/docs/img/speakers/Stojan_Gancev.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/docs/img/talks/2019/talks_Alexandar_Melov.png": {
@@ -1163,7 +2251,7 @@
 		"oAP": "/build/docs/docs/img/talks/2019/talks_Alexandar_Melov.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1174,7 +2262,7 @@
 		"oAP": "/build/docs/docs/img/talks/2019/talks_Andraj_trajcevski.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1185,7 +2273,7 @@
 		"oAP": "/build/docs/docs/img/talks/2019/talks_Bojan_Bozinovski.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1196,7 +2284,7 @@
 		"oAP": "/build/docs/docs/img/talks/2019/talks_Boro_Sitnikovski.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1207,7 +2295,7 @@
 		"oAP": "/build/docs/docs/img/talks/2019/talks_Dimitar_Delev.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1218,7 +2306,7 @@
 		"oAP": "/build/docs/docs/img/talks/2019/talks_Kitze.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1229,7 +2317,7 @@
 		"oAP": "/build/docs/docs/img/talks/2019/talks_Rado_Gabrovski.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1240,7 +2328,7 @@
 		"oAP": "/build/docs/docs/img/talks/2019/talks_Stefan_Janev.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1384,7 +2472,7 @@
 		"oAP": "/build/docs/img/devcon_poster copy.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/devcon_poster.jpg": {
@@ -1395,7 +2483,7 @@
 		"oAP": "/build/docs/img/devcon_poster.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/devcon_poster_old.jpg": {
@@ -1406,7 +2494,7 @@
 		"oAP": "/build/docs/img/devcon_poster_old.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_001.jpg": {
@@ -1417,7 +2505,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_001.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_002.jpg": {
@@ -1428,7 +2516,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_002.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_003.jpg": {
@@ -1439,7 +2527,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_003.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_004.jpg": {
@@ -1450,7 +2538,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_004.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_005.jpg": {
@@ -1461,7 +2549,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_005.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_006.jpg": {
@@ -1472,7 +2560,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_006.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_007.jpg": {
@@ -1483,7 +2571,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_007.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_008.jpg": {
@@ -1494,7 +2582,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_008.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_009.jpg": {
@@ -1505,7 +2593,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_009.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_010.jpg": {
@@ -1516,7 +2604,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_010.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_011.jpg": {
@@ -1527,7 +2615,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_011.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_012.jpg": {
@@ -1538,7 +2626,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_012.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_013.jpg": {
@@ -1549,7 +2637,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_013.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_014.jpg": {
@@ -1560,7 +2648,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_014.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_015.jpg": {
@@ -1571,7 +2659,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_015.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_016.jpg": {
@@ -1582,7 +2670,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_016.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_017.jpg": {
@@ -1593,7 +2681,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_017.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_018.jpg": {
@@ -1604,7 +2692,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_018.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_019.jpg": {
@@ -1615,7 +2703,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_019.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_020.jpg": {
@@ -1626,7 +2714,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_020.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_021.jpg": {
@@ -1637,7 +2725,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_021.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_022.jpg": {
@@ -1648,7 +2736,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_022.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_023.jpg": {
@@ -1659,7 +2747,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_023.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_024.jpg": {
@@ -1670,7 +2758,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_024.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_025.jpg": {
@@ -1681,7 +2769,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_025.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_026.jpg": {
@@ -1692,7 +2780,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_026.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_027.jpg": {
@@ -1703,7 +2791,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_027.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_028.jpg": {
@@ -1714,7 +2802,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_028.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_029.jpg": {
@@ -1725,7 +2813,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_029.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_030.jpg": {
@@ -1736,7 +2824,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_030.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_031.jpg": {
@@ -1747,7 +2835,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_031.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_032.jpg": {
@@ -1758,7 +2846,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_032.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_033.jpg": {
@@ -1769,7 +2857,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_033.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_034.jpg": {
@@ -1780,7 +2868,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_034.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_035.jpg": {
@@ -1791,7 +2879,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_035.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_036.jpg": {
@@ -1802,7 +2890,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_036.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_037.jpg": {
@@ -1813,7 +2901,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_037.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_038.jpg": {
@@ -1824,7 +2912,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_038.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_039.jpg": {
@@ -1835,7 +2923,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_039.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_040.jpg": {
@@ -1846,7 +2934,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_040.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_041.jpg": {
@@ -1857,7 +2945,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_041.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_042.jpg": {
@@ -1868,7 +2956,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_042.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_043.jpg": {
@@ -1879,7 +2967,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_043.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_044.jpg": {
@@ -1890,7 +2978,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_044.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_045.jpg": {
@@ -1901,7 +2989,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_045.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_046.jpg": {
@@ -1912,7 +3000,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_046.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_047.jpg": {
@@ -1923,7 +3011,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_047.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_048.jpg": {
@@ -1934,7 +3022,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_048.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_049.jpg": {
@@ -1945,7 +3033,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_049.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_050.jpg": {
@@ -1956,7 +3044,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_050.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_051.jpg": {
@@ -1967,7 +3055,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_051.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_052.jpg": {
@@ -1978,7 +3066,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_052.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/gallery/2019/DSC_053.jpg": {
@@ -1989,7 +3077,7 @@
 		"oAP": "/build/docs/img/gallery/2019/DSC_053.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/logo.svg": {
@@ -2019,7 +3107,7 @@
 		"oAP": "/build/docs/img/partnerlogos/foundry_logo.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -2030,7 +3118,7 @@
 		"oAP": "/build/docs/img/partnerlogos/h4_logo.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -2041,7 +3129,7 @@
 		"oAP": "/build/docs/img/partnerlogos/melon_logo.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -2053,7 +3141,7 @@
 		"oAP": "/build/docs/img/speakers/Aleksandar_Melov.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/speakers/Andrej_Trajchevski.jpg": {
@@ -2064,7 +3152,7 @@
 		"oAP": "/build/docs/img/speakers/Andrej_Trajchevski.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/speakers/Bojan_Bojinovski.jpg": {
@@ -2075,7 +3163,7 @@
 		"oAP": "/build/docs/img/speakers/Bojan_Bojinovski.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/speakers/Boro_Sitnikovski.jpg": {
@@ -2086,7 +3174,7 @@
 		"oAP": "/build/docs/img/speakers/Boro_Sitnikovski.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/speakers/Dimitar_Delev.jpg": {
@@ -2097,7 +3185,7 @@
 		"oAP": "/build/docs/img/speakers/Dimitar_Delev.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/speakers/Kristijan_Ristovski.jpg": {
@@ -2108,7 +3196,7 @@
 		"oAP": "/build/docs/img/speakers/Kristijan_Ristovski.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/speakers/Rado_Gabrovski.jpg": {
@@ -2119,7 +3207,7 @@
 		"oAP": "/build/docs/img/speakers/Rado_Gabrovski.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/speakers/Stefan_Janev.jpg": {
@@ -2130,7 +3218,7 @@
 		"oAP": "/build/docs/img/speakers/Stefan_Janev.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/speakers/Stojan_Gancev.jpg": {
@@ -2141,7 +3229,7 @@
 		"oAP": "/build/docs/img/speakers/Stojan_Gancev.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/docs/img/talks/2019/talks_Alexandar_Melov.png": {
@@ -2151,18 +3239,18 @@
 		"oAP": "/build/docs/img/talks/2019/talks_Alexandar_Melov.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/img/talks/2019/talks_Andraj_trajcevski.png": {
+	"/docs/img/talks/2019/talks_Andraj_Trajcevski.png": {
 		"ft": 32768,
-		"iS": 54643,
+		"iS": 68129,
 		"oA": 0,
-		"oAP": "/build/docs/img/talks/2019/talks_Andraj_trajcevski.png",
+		"oAP": "/build/docs/img/talks/2019/talks_Andraj_Trajcevski.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -2173,7 +3261,7 @@
 		"oAP": "/build/docs/img/talks/2019/talks_Bojan_Bozinovski.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -2184,7 +3272,7 @@
 		"oAP": "/build/docs/img/talks/2019/talks_Boro_Sitnikovski.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -2195,7 +3283,7 @@
 		"oAP": "/build/docs/img/talks/2019/talks_Dimitar_Delev.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -2206,7 +3294,7 @@
 		"oAP": "/build/docs/img/talks/2019/talks_Kitze.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -2217,7 +3305,7 @@
 		"oAP": "/build/docs/img/talks/2019/talks_Rado_Gabrovski.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -2228,7 +3316,7 @@
 		"oAP": "/build/docs/img/talks/2019/talks_Stefan_Janev.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3143,16 +4231,16 @@
 		"oT": 1,
 		"q": 94
 		},
-	"/img/talks/2019/talks_Andraj_trajcevski.png": {
+	"/img/talks/2019/talks_Andraj_Trajcevski.png": {
 		"ft": 32768,
 		"iS": 68129,
 		"oA": 0,
-		"oAP": "/build/img/talks/2019/talks_Andraj_trajcevski.png",
+		"oAP": "/build/img/talks/2019/talks_Andraj_Trajcevski.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
-		"q": 94
+		"q": 100
 		},
 	"/img/talks/2019/talks_Bojan_Bozinovski.png": {
 		"ft": 32768,
@@ -3535,7 +4623,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets-azure",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 600099627.37631905
+	"lastBuiltDate": 600099976.13370502
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
