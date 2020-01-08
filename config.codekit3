@@ -168,6 +168,17 @@
 		"oAP": "/build/gallery.html",
 		"oF": 0
 		},
+	"/img/about_poster.JPG": {
+		"ft": 16384,
+		"iS": 1327677,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/about_poster.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/img/devcon_logo copy.svg": {
 		"ft": 2097152,
 		"miP": 0,
