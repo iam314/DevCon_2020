@@ -78,40 +78,10 @@ body {
    flex: 1;
  }
 
- section {
+ .wrapper {
    padding-left: 8%;
    padding-right: 8%
  }
-//////////////////////TRY IMAGE GALLERY ///////////
-
-.image-source-link {
-	color: #98C3D1;
-}
-
-.mfp-with-zoom .mfp-container,
-.mfp-with-zoom.mfp-bg {
-	opacity: 0;
-	-webkit-backface-visibility: hidden;
-	/* ideally, transition speed should match zoom duration */
-	-webkit-transition: all 0.3s ease-out;
-	-moz-transition: all 0.3s ease-out;
-	-o-transition: all 0.3s ease-out;
-	transition: all 0.3s ease-out;
-}
-
-.mfp-with-zoom.mfp-ready .mfp-container {
-		opacity: 1;
-}
-.mfp-with-zoom.mfp-ready.mfp-bg {
-		opacity: 0.8;
-}
-
-.mfp-with-zoom.mfp-removing .mfp-container,
-.mfp-with-zoom.mfp-removing.mfp-bg {
-	opacity: 0;
-}
-
-////////////////END IMAGE GALLERY /////////////
 
  .poster_bg {
    background: url(../img/devcon_poster.jpg);
@@ -119,6 +89,14 @@ body {
    background-size: cover;
    height: 100vh;
  }
+
+.about_image {
+  background: url(../img/gallery/2019/DSC_002.JPG);
+  background-position: center;
+  background-size: cover;
+  height: 50vh;
+}
+
 
 nav {
   margin-bottom: 8%;
@@ -309,17 +287,17 @@ ul.logos li a:hover {
   margin: 0 auto 4.8em auto;
 }
 
-
-.talkstumbs {
-  display: inline;
-}
-
-ul.speakers {
+ul.speakers, ul.talks {
   padding-left: 0;
   list-style: none;
 }
-ul.speakers li {
-  margin-bottom: 9em;
+
+ul.talks li {
+  margin-bottom: 4em;
+}
+
+ul.speakers li{
+  margin-bottom: 12em;
 }
 
 ul.speakers p {
@@ -639,6 +617,15 @@ p {
   margin-bottom: 1.2em;
 }
 
+.text_undercolor {
+  background-color: #fff;
+  max-width: 65em;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 4.6em;
+  margin-top: 20em;
+}
+
 .textwrapper {
   padding: 0 3.6em;
   border-left: 3.6em solid $color-red;
@@ -780,6 +767,20 @@ background-color: darken( $color-red, 20%);
 }
 .hidesmall {
   display: inline-block;
+}
+
+.talks_title {
+  margin: 0.5em 0 0 0;
+}
+
+.talks_link {
+  display: inline-block;
+  color: #FF8C8C;
+  font-family: aktiv-grotesk, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.8em;
+  text-decoration: none;
 }
 
 .hamburger {
