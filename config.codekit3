@@ -212,10 +212,21 @@
 		},
 	"/img/devcon_poster.jpg": {
 		"ft": 16384,
+		"iS": 2018616,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/devcon_poster.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 90
+		},
+	"/img/devcon_poster_nope.jpg": {
+		"ft": 16384,
 		"iS": 1125082,
 		"jF": 1,
 		"oA": 0,
-		"oAP": "/build/img/devcon_poster.jpg",
+		"oAP": "/build/img/devcon_poster_nope.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -835,6 +846,16 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
+	"/img/logo_white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/img/logo_white.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/img/partnerlogos/foundry_logo.png": {
 		"ft": 32768,
 		"iS": 778,
@@ -1239,6 +1260,25 @@
 		"oAP": "/build/Rado_Gabrovski.html",
 		"oF": 0
 		},
+	"/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"/registration.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -1370,7 +1410,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets-azure",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 600168772.30575001
+	"lastBuiltDate": 600690692.28472197
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
